@@ -1,6 +1,6 @@
 # ⚽ Vector-Xipose
 
-A collectible card-style Discord bot built using TypeScript and Discord.js — inspired by Sofi, Karuta, and sports collectibles.
+A collectible card-style Discord bot built using TypeScript and Discord.js
 
 ## 🚀 Features
 
