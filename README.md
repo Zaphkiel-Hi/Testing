@@ -14,7 +14,7 @@ A collectible card-style Discord bot built using TypeScript and Discord.js
 - **Discord.js v14+**
 - **TypeScript**
 - **Node.js**
-- **dotenv** for environment config
+- **dotenv** for environment config 
 - **tsx** for instant dev (no build step!)
 - 
 ---
