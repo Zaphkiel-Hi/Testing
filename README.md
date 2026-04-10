@@ -7,7 +7,7 @@ A collectible card-style Discord bot built using TypeScript and Discord.js
 - Slash-command support
 - Modular command system 
 - Collectible card interactions (in progress)
-- Built with TypeScript for reliability and scalability 
+- Built with TypeScript for reliability and scalability  
  
 ## 🧠 Tech Stack
  
