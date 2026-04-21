@@ -1,7 +1,7 @@
 # ⚽ Vector-Xipose
  
 A collectible card-style Discord bot built using TypeScript and Discord.js  
-  
+   
 ## 🚀 Features
  
 - Slash-command support
