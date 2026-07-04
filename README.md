@@ -10,7 +10,7 @@ A collectible card-style Discord bot built using TypeScript and Discord.js
 - Built with TypeScript for reliability and scalability   
   
 ## 🧠 Tech Stack     
-        
+         
 - **Discord.js v14+**      
 - **TypeScript**              
 - **Node.js**         
